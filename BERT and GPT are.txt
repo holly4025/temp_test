@@ -1,1 +1,1 @@
-BERT and GPT are the pretrained
+BERT is a the pretrained bidirectional
